@@ -1,5 +1,5 @@
 /* Cancel action button in recording state */
-"Cancel" = "キャンセルする";
+"Cancel" = "Cancel";
 
 /* Tooltip for non-empty shortcut button */
 "Click to record new shortcut" = "Click to record new shortcut";
@@ -14,7 +14,7 @@
 "OK" = "OK";
 
 /* Empty shortcut button in normal state */
-"Record Shortcut" = "記録のショートカット";
+"Record Shortcut" = "Record Shortcut";
 
 /* VoiceOver: Shortcut cleared */
 "Shortcut cleared" = "Shortcut cleared";
@@ -23,7 +23,7 @@
 "Shortcut set" = "Shortcut set";
 
 /* Shortcut glyph name for SPACE key */
-"Space" = "スペース";
+"Space" = "Space";
 
 /* Title for alert when shortcut is already used */
 "The key combination %@ cannot be used" = "The key combination %@ cannot be used";
@@ -38,10 +38,10 @@
 "To record a new shortcut, click this button, and then type the new shortcut, or press delete to clear an existing shortcut." = "To record a new shortcut, click this button, and then type the new shortcut, or press delete to clear an existing shortcut.";
 
 /* Non-empty shortcut button in recording state */
-"Type New Shortcut" = "タイプのショートカット";
+"Type New Shortcut" = "Type New Shortcut";
 
 /* Empty shortcut button in recording state */
-"Type Shortcut" = "タイプのショートカット";
+"Type Shortcut" = "Type Shortcut";
 
 /* Cancel action button for non-empty shortcut in recording state */
 "Use Old Shortcut" = "Use Old Shortcut";

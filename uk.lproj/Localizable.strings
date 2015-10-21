@@ -1,47 +1,47 @@
 /* Cancel action button in recording state */
-"Cancel" = "Cancel";
+"Cancel" = "Скасувати";
 
 /* Tooltip for non-empty shortcut button */
-"Click to record new shortcut" = "Click to record new shortcut";
+"Click to record new shortcut" = "Клацніть, щоб записати нове скорочення";
 
 /* Tooltip for hint button near the non-empty shortcut */
-"Delete shortcut" = "Delete shortcut";
+"Delete shortcut" = "Видалити скорочення";
 
 /* VoiceOver title */
-"keyboard shortcut" = "keyboard shortcut";
+"keyboard shortcut" = "клавіатурне скорочення";
 
 /* Alert button when shortcut is already used */
 "OK" = "OK";
 
 /* Empty shortcut button in normal state */
-"Record Shortcut" = "Record Shortcut";
+"Record Shortcut" = "Записати скорочення";
 
 /* VoiceOver: Shortcut cleared */
-"Shortcut cleared" = "Shortcut cleared";
+"Shortcut cleared" = "Скорочення видалено";
 
 /* VoiceOver: Shortcut set */
-"Shortcut set" = "Shortcut set";
+"Shortcut set" = "Скорочення встановлено";
 
 /* Shortcut glyph name for SPACE key */
-"Space" = "Space";
+"Space" = "Пробіл";
 
 /* Title for alert when shortcut is already used */
-"The key combination %@ cannot be used" = "The key combination %@ cannot be used";
+"The key combination %@ cannot be used" = "Скорочення %@ не може бути використане";
 
 /* Message for alert when shortcut is already used by the system */
-"This combination cannot be used because it is already used by a system-wide keyboard shortcut.\nIf you really want to use this key combination, most shortcuts can be changed in the Keyboard & Mouse panel in System Preferences." = "This combination cannot be used because it is already used by a system-wide keyboard shortcut.\nIf you really want to use this key combination, most shortcuts can be changed in the Keyboard & Mouse panel in System Preferences.";
+"This combination cannot be used because it is already used by a system-wide keyboard shortcut.\nIf you really want to use this key combination, most shortcuts can be changed in the Keyboard & Mouse panel in System Preferences." = "Ця комбінація клавіш не може бути використана, адже вона є одним із загальносистемних скорочень.\nЯкщо ви дійсно бажаєте обрати це скорочення, його слід підлаштувати через Системні параметри у вкладці Клавіатура.";
 
 /* Message for alert when shortcut is already used */
-"This shortcut cannot be used because it is already used by the menu item ‘%@’." = "This shortcut cannot be used because it is already used by the menu item ‘%@’.";
+"This shortcut cannot be used because it is already used by the menu item ‘%@’." = "Ця комбінація клавіш вже використовується інструментом «%@».";
 
 /* VoiceOver shortcut help */
-"To record a new shortcut, click this button, and then type the new shortcut, or press delete to clear an existing shortcut." = "To record a new shortcut, click this button, and then type the new shortcut, or press delete to clear an existing shortcut.";
+"To record a new shortcut, click this button, and then type the new shortcut, or press delete to clear an existing shortcut." = "Клацніть цю кнопку та введіть нове скорочення, щоб його записати. Натисніть «delete», щоб видалити поточне скорочення.";
 
 /* Non-empty shortcut button in recording state */
-"Type New Shortcut" = "Type New Shortcut";
+"Type New Shortcut" = "Ввести нове скорочення";
 
 /* Empty shortcut button in recording state */
-"Type Shortcut" = "Type Shortcut";
+"Type Shortcut" = "Ввести скорочення";
 
 /* Cancel action button for non-empty shortcut in recording state */
-"Use Old Shortcut" = "Use Old Shortcut";
+"Use Old Shortcut" = "Використати старе скорочення";

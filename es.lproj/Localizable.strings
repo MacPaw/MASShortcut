@@ -1,47 +1,47 @@
 /* Cancel action button in recording state */
-"Cancel" = "Cancel";
+"Cancel" = "Cancelar";
 
 /* Tooltip for non-empty shortcut button */
-"Click to record new shortcut" = "Click to record new shortcut";
+"Click to record new shortcut" = "Haz clic para grabar un nuevo atajo de teclado";
 
 /* Tooltip for hint button near the non-empty shortcut */
-"Delete shortcut" = "Delete shortcut";
+"Delete shortcut" = "Eliminar atajo";
 
 /* VoiceOver title */
-"keyboard shortcut" = "keyboard shortcut";
+"keyboard shortcut" = "combinación de teclas";
 
 /* Alert button when shortcut is already used */
-"OK" = "OK";
+"OK" = "Ok";
 
 /* Empty shortcut button in normal state */
-"Record Shortcut" = "Record Shortcut";
+"Record Shortcut" = "Grabar atajo";
 
 /* VoiceOver: Shortcut cleared */
-"Shortcut cleared" = "Shortcut cleared";
+"Shortcut cleared" = "Atajo borrado";
 
 /* VoiceOver: Shortcut set */
-"Shortcut set" = "Shortcut set";
+"Shortcut set" = "Atajo establecido";
 
 /* Shortcut glyph name for SPACE key */
-"Space" = "Space";
+"Space" = "Espacio";
 
 /* Title for alert when shortcut is already used */
-"The key combination %@ cannot be used" = "The key combination %@ cannot be used";
+"The key combination %@ cannot be used" = "No se puede utilizar la combinación de teclas %@";
 
 /* Message for alert when shortcut is already used by the system */
-"This combination cannot be used because it is already used by a system-wide keyboard shortcut.\nIf you really want to use this key combination, most shortcuts can be changed in the Keyboard & Mouse panel in System Preferences." = "This combination cannot be used because it is already used by a system-wide keyboard shortcut.\nIf you really want to use this key combination, most shortcuts can be changed in the Keyboard & Mouse panel in System Preferences.";
+"This combination cannot be used because it is already used by a system-wide keyboard shortcut.\nIf you really want to use this key combination, most shortcuts can be changed in the Keyboard & Mouse panel in System Preferences." = "Esta combinación no puede utilizarse porque ya es utilizada como un atajo en tu sistema. Si realmente deseas utilizar esta combinación de teclas, la mayoría de los atajos se pueden cambiar en el panel teclado en preferencias del sistema.";
 
 /* Message for alert when shortcut is already used */
-"This shortcut cannot be used because it is already used by the menu item ‘%@’." = "This shortcut cannot be used because it is already used by the menu item ‘%@’.";
+"This shortcut cannot be used because it is already used by the menu item ‘%@’." = "Este atajo no se puede utilizar porque ya está asignado al elemento de menú '%@'.";
 
 /* VoiceOver shortcut help */
-"To record a new shortcut, click this button, and then type the new shortcut, or press delete to clear an existing shortcut." = "To record a new shortcut, click this button, and then type the new shortcut, or press delete to clear an existing shortcut.";
+"To record a new shortcut, click this button, and then type the new shortcut, or press delete to clear an existing shortcut." = "Para grabar un nuevo atajo, haz clic en este botón y presiona las teclas deseadas o presiona la tecla delete para borrar un atajo existente.";
 
 /* Non-empty shortcut button in recording state */
-"Type New Shortcut" = "Type New Shortcut";
+"Type New Shortcut" = "Escribir nuevo atajo";
 
 /* Empty shortcut button in recording state */
-"Type Shortcut" = "Type Shortcut";
+"Type Shortcut" = "Escribir atajo";
 
 /* Cancel action button for non-empty shortcut in recording state */
-"Use Old Shortcut" = "Use Old Shortcut";
+"Use Old Shortcut" = "Usar atajo viejo";

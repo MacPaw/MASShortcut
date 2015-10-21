@@ -1,47 +1,47 @@
 /* Cancel action button in recording state */
-"Cancel" = "Cancel";
+"Cancel" = "Abbrechen";
 
 /* Tooltip for non-empty shortcut button */
-"Click to record new shortcut" = "Click to record new shortcut";
+"Click to record new shortcut" = "Klicken zum Erstellen eines neuen Kürzels";
 
 /* Tooltip for hint button near the non-empty shortcut */
-"Delete shortcut" = "Delete shortcut";
+"Delete shortcut" = "Kürzel löschen";
 
 /* VoiceOver title */
-"keyboard shortcut" = "keyboard shortcut";
+"keyboard shortcut" = "Tastaturkürzel";
 
 /* Alert button when shortcut is already used */
 "OK" = "OK";
 
 /* Empty shortcut button in normal state */
-"Record Shortcut" = "Record Shortcut";
+"Record Shortcut" = "Kürzel aufnehmen";
 
 /* VoiceOver: Shortcut cleared */
-"Shortcut cleared" = "Shortcut cleared";
+"Shortcut cleared" = "Kürzel gelöscht";
 
 /* VoiceOver: Shortcut set */
-"Shortcut set" = "Shortcut set";
+"Shortcut set" = "Kürzel eingestellt";
 
 /* Shortcut glyph name for SPACE key */
-"Space" = "Space";
+"Space" = "Platz";
 
 /* Title for alert when shortcut is already used */
-"The key combination %@ cannot be used" = "The key combination %@ cannot be used";
+"The key combination %@ cannot be used" = "Die Tastenkombination %@ kann nicht verwendet werden";
 
 /* Message for alert when shortcut is already used by the system */
-"This combination cannot be used because it is already used by a system-wide keyboard shortcut.\nIf you really want to use this key combination, most shortcuts can be changed in the Keyboard & Mouse panel in System Preferences." = "This combination cannot be used because it is already used by a system-wide keyboard shortcut.\nIf you really want to use this key combination, most shortcuts can be changed in the Keyboard & Mouse panel in System Preferences.";
+"This combination cannot be used because it is already used by a system-wide keyboard shortcut.\nIf you really want to use this key combination, most shortcuts can be changed in the Keyboard & Mouse panel in System Preferences." = "Diese Kombination kann nicht verwendet werden, weil sie bereits von einem systemweiten Tastaturkürzel genutzt wird.\nWenn Sie diese Kombination trotzdem nutzen möchten, können Sie die Tastaturkürzel in den Systemeinstellungen unter Tastatur und Maus ändern.";
 
 /* Message for alert when shortcut is already used */
-"This shortcut cannot be used because it is already used by the menu item ‘%@’." = "This shortcut cannot be used because it is already used by the menu item ‘%@’.";
+"This shortcut cannot be used because it is already used by the menu item ‘%@’." = "Dieses Kürzel kann nicht verwendet werden, weil es bereits vom Befehl „%@“ verwendet wird.";
 
 /* VoiceOver shortcut help */
-"To record a new shortcut, click this button, and then type the new shortcut, or press delete to clear an existing shortcut." = "To record a new shortcut, click this button, and then type the new shortcut, or press delete to clear an existing shortcut.";
+"To record a new shortcut, click this button, and then type the new shortcut, or press delete to clear an existing shortcut." = "Klicken Sie zum Aufnehmen eines neuen Kürzels auf diese Taste, und geben Sie das neue Kürzel ein, oder drücken Sie auf Löschen, um ein bestehendes Kürzel zu entfernen.";
 
 /* Non-empty shortcut button in recording state */
-"Type New Shortcut" = "Type New Shortcut";
+"Type New Shortcut" = "Neues Kürzel eingeben";
 
 /* Empty shortcut button in recording state */
-"Type Shortcut" = "Type Shortcut";
+"Type Shortcut" = "Kürzel eingeben";
 
 /* Cancel action button for non-empty shortcut in recording state */
-"Use Old Shortcut" = "Use Old Shortcut";
+"Use Old Shortcut" = "Altes Kürzel verwenden";

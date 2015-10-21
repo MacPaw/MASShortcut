@@ -1,47 +1,47 @@
 /* Cancel action button in recording state */
-"Cancel" = "Cancel";
+"Cancel" = "Annuleer";
 
 /* Tooltip for non-empty shortcut button */
-"Click to record new shortcut" = "Click to record new shortcut";
+"Click to record new shortcut" = "Klik om een nieuwe toetscombinatie vast te leggen";
 
 /* Tooltip for hint button near the non-empty shortcut */
-"Delete shortcut" = "Delete shortcut";
+"Delete shortcut" = "Verwijder toetscombinatie";
 
 /* VoiceOver title */
-"keyboard shortcut" = "keyboard shortcut";
+"keyboard shortcut" = "toetscombinatie";
 
 /* Alert button when shortcut is already used */
 "OK" = "OK";
 
 /* Empty shortcut button in normal state */
-"Record Shortcut" = "Record Shortcut";
+"Record Shortcut" = "Leg toetscombinatie vast";
 
 /* VoiceOver: Shortcut cleared */
-"Shortcut cleared" = "Shortcut cleared";
+"Shortcut cleared" = "Toetscombinatie gewist";
 
 /* VoiceOver: Shortcut set */
-"Shortcut set" = "Shortcut set";
+"Shortcut set" = "Toetscombinatie ingesteld";
 
 /* Shortcut glyph name for SPACE key */
-"Space" = "Space";
+"Space" = "Spatiebalk";
 
 /* Title for alert when shortcut is already used */
-"The key combination %@ cannot be used" = "The key combination %@ cannot be used";
+"The key combination %@ cannot be used" = "De toetscombinatie %@ kan niet worden gebruikt";
 
 /* Message for alert when shortcut is already used by the system */
-"This combination cannot be used because it is already used by a system-wide keyboard shortcut.\nIf you really want to use this key combination, most shortcuts can be changed in the Keyboard & Mouse panel in System Preferences." = "This combination cannot be used because it is already used by a system-wide keyboard shortcut.\nIf you really want to use this key combination, most shortcuts can be changed in the Keyboard & Mouse panel in System Preferences.";
+"This combination cannot be used because it is already used by a system-wide keyboard shortcut.\nIf you really want to use this key combination, most shortcuts can be changed in the Keyboard & Mouse panel in System Preferences." = "Deze combinatie kan niet worden gebruikt omdat deze al wordt gebruikt door het systeem. Als je deze toetscombinatie echt wilt gebruiken, kunnen de meeste toetscombinaties worden gewijzigd in het paneel Toetsenbord in Systeemvoorkeuren.";
 
 /* Message for alert when shortcut is already used */
-"This shortcut cannot be used because it is already used by the menu item ‘%@’." = "This shortcut cannot be used because it is already used by the menu item ‘%@’.";
+"This shortcut cannot be used because it is already used by the menu item ‘%@’." = "Deze toetscombinatie kan niet worden gebruikt omdat deze al wordt gebruikt door het menuonderdeel ‘%@’.";
 
 /* VoiceOver shortcut help */
-"To record a new shortcut, click this button, and then type the new shortcut, or press delete to clear an existing shortcut." = "To record a new shortcut, click this button, and then type the new shortcut, or press delete to clear an existing shortcut.";
+"To record a new shortcut, click this button, and then type the new shortcut, or press delete to clear an existing shortcut." = "Als je een nieuwe snelkoppeling wilt vastleggen, klik je op deze knop en typ je vervolgens de nieuwe toetscombinatie, of druk op Delete om een bestaande toetscombinatie te verwijderen.";
 
 /* Non-empty shortcut button in recording state */
-"Type New Shortcut" = "Type New Shortcut";
+"Type New Shortcut" = "Typ nieuwe toetscombinatie";
 
 /* Empty shortcut button in recording state */
-"Type Shortcut" = "Type Shortcut";
+"Type Shortcut" = "Typ toetscombinatie";
 
 /* Cancel action button for non-empty shortcut in recording state */
-"Use Old Shortcut" = "Use Old Shortcut";
+"Use Old Shortcut" = "Gebruik oude toetscombinatie";

@@ -29,7 +29,7 @@
 "The key combination %@ cannot be used" = "无法使用 %@ 组合键";
 
 /* Message for alert when shortcut is already used by the system */
-"This combination cannot be used because it is already used by a system-wide keyboard shortcut.\nIf you really want to use this key combination, most shortcuts can be changed in the Keyboard & Mouse panel in System Preferences." = "无法使用此组合键，因为系统范围的键盘快捷方式已使用了它。 \n如果您确实想使用此组合键，可以在更改系统偏好设置中对键盘面板中的大部分快捷操作进行更改。";
+"This combination cannot be used because it is already used by a system-wide keyboard shortcut.\nIf you really want to use this key combination, most shortcuts can be changed in the Keyboard panel in System Preferences." = "无法使用此组合键，因为系统范围的键盘快捷方式已使用了它。 \n如果您确实想使用此组合键，可以在更改系统偏好设置中对键盘面板中的大部分快捷操作进行更改。";
 
 /* Message for alert when shortcut is already used */
 "This shortcut cannot be used because it is already used by the menu item ‘%@’." = "无法使用此快捷操作，因为菜单项 \"%@\" 已使用了它。";

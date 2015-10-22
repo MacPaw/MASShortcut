@@ -29,7 +29,7 @@
 "The key combination %@ cannot be used" = "Сочетание клавиш %@ недоступно";
 
 /* Message for alert when shortcut is already used by the system */
-"This combination cannot be used because it is already used by a system-wide keyboard shortcut.\nIf you really want to use this key combination, most shortcuts can be changed in the Keyboard & Mouse panel in System Preferences." = "Эта комбинация клавиш уже используется для общесистемного действия. Если вы все же хотите использовать это сочетание клавиш, то большинство системных сочетаний можно изменить в панели Клавиатура «Системных настроек».";
+"This combination cannot be used because it is already used by a system-wide keyboard shortcut.\nIf you really want to use this key combination, most shortcuts can be changed in the Keyboard panel in System Preferences." = "Эта комбинация клавиш уже используется для общесистемного действия. Если вы все же хотите использовать это сочетание клавиш, то большинство системных сочетаний можно изменить в панели Клавиатура «Системных настроек».";
 
 /* Message for alert when shortcut is already used */
 "This shortcut cannot be used because it is already used by the menu item ‘%@’." = "Это сочетание уже занято для пункта меню «%@».";

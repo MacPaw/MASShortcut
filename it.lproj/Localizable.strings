@@ -29,7 +29,7 @@
 "The key combination %@ cannot be used" = "La combinazione di tasti %@ non può essere utilizzata";
 
 /* Message for alert when shortcut is already used by the system */
-"This combination cannot be used because it is already used by a system-wide keyboard shortcut.\nIf you really want to use this key combination, most shortcuts can be changed in the Keyboard & Mouse panel in System Preferences." = "Questa combinazione non può essere utilizzata perché è già utilizzata da un'abbreviazione del sistema. Se vuoi utilizzare questa combinazione di tasti, la maggior parte delle abbreviazioni può essere cambiata nel pannello Tastiera nelle Preferenze di Sistema.";
+"This combination cannot be used because it is already used by a system-wide keyboard shortcut.\nIf you really want to use this key combination, most shortcuts can be changed in the Keyboard panel in System Preferences." = "Questa combinazione non può essere utilizzata perché è già utilizzata da un'abbreviazione del sistema. Se vuoi utilizzare questa combinazione di tasti, la maggior parte delle abbreviazioni può essere cambiata nel pannello Tastiera nelle Preferenze di Sistema.";
 
 /* Message for alert when shortcut is already used */
 "This shortcut cannot be used because it is already used by the menu item ‘%@’." = "Questa abbreviazione non può essere utilizzata perché è già utilizzata dalla voce di menu '%@'.";

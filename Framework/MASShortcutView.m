@@ -256,6 +256,17 @@ static const CGFloat MASButtonFontSize = 11;
 
 #pragma mark - Mouse handling
 
+- (NSSize)intrinsicContentSize
+{
+	CGRect shortcutRect;
+	CGRect hintRectRef;
+		[self getShortcutRect:&shortcutRect hintRect:&hintRectRef];
+
+	NSSize intrinsicContentSize = [super intrinsicContentSize];
+	intrinsicContentSize.width += shortcutRect.size.width + hintRectRef.size.width;
+	return intrinsicContentSize;
+}
+
 - (void)getShortcutRect:(CGRect *)shortcutRectRef hintRect:(CGRect *)hintRectRef
 {
     CGRect shortcutRect, hintRect;

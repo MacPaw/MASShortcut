@@ -225,10 +225,10 @@ static const CGFloat MASButtonFontSize = 11;
         [self getShortcutRect:&shortcutRect hintRect:NULL];
         NSString *title = (self.recording
                            ? (_hinting
-                              ? MASLocalizedString(@"Use Old Shortcut", @"Cancel action button for non-empty shortcut in recording state")
+                              ? MASLocalizedString(@"Cancel", @"Cancel action button for non-empty shortcut in recording state")
                               : (self.shortcutPlaceholder.length > 0
                                  ? self.shortcutPlaceholder
-                                 : MASLocalizedString(@"Type New Shortcut", @"Non-empty shortcut button in recording state")))
+                                 : MASLocalizedString(@"Type Shortcut", @"Non-empty shortcut button in recording state")))
                            : _shortcutValue ? _shortcutValue.description : @"");
         [self drawInRect:shortcutRect withTitle:title alignment:NSCenterTextAlignment state:self.isRecording ? NSOnState : NSOffState];
     }
